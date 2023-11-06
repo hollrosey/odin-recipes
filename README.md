@@ -1,1 +1,1 @@
-This project is my first real one from Odin Project. It will help me to practice the html basics that I am already comfortable with and any that I need to practice.
+This is the first project I've done with The Odin project, it will be good to revisit the basics and commit them to my memory. Ha!
