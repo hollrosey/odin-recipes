@@ -1,0 +1,1 @@
+This project is my first real one from Odin Project. It will help me to practice the html basics that I am already comfortable with and any that I need to practice. 
