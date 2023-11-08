@@ -1,16 +1,27 @@
 body {
-    font-family: sans-serif;
+    font-family: 'Tahoma', sans-serif;
     font-size: 16px;
-    text-align: center;
+    background-color: #FAF1E4;
+    color: #435334;
 }
 
 h1 {
     text-align: center;
+    font-size: 28px;
 }
 
-.food-img {
-   height: auto;
-   width: 400px;
+h2 {
+    font-size: 22px;
+}
+
+img {
+    max-height: auto;
+    max-width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 ul {
